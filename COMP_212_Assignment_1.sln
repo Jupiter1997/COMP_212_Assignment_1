@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature", "Temperature\Temperature.csproj", "{9208D518-5560-4AD8-9A44-5766BA12DBD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drawing", "Drawing\Drawing.csproj", "{93C1EF07-9AAD-485C-A9A9-91FC2D8D9119}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9208D518-5560-4AD8-9A44-5766BA12DBD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9208D518-5560-4AD8-9A44-5766BA12DBD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9208D518-5560-4AD8-9A44-5766BA12DBD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C1EF07-9AAD-485C-A9A9-91FC2D8D9119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C1EF07-9AAD-485C-A9A9-91FC2D8D9119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C1EF07-9AAD-485C-A9A9-91FC2D8D9119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C1EF07-9AAD-485C-A9A9-91FC2D8D9119}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
