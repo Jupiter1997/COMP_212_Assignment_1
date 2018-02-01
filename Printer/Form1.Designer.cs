@@ -1,4 +1,4 @@
-﻿namespace COMP_212_Assignment_1
+﻿namespace Printer
 {
     partial class Form1
     {
